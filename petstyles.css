@@ -154,6 +154,14 @@ h1 {
 
 }
 
+@font-face {
+  font-family: "titan-one";
+  font-style: normal;
+  font-weight: 700;
+  src: local("titan-one), url("TitanOne-Regular.ttf") format("ttf");
+
+}
+
 .fun {
 	margin-left: 60px;
 	margin-right: 60px;
