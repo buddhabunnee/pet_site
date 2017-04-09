@@ -108,7 +108,7 @@ h1 {
 
 .logo {
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 30px;
 	height: 140px;
 	width: 275px;
 }
@@ -121,7 +121,7 @@ h1 {
 	color: #FAC6C7;
 	text-shadow: 3px 4px 0 #990134;
 	text-decoration: none;
-    line-height: 100%;
+    line-height: 110%;
 }
 
 .logo a:hover {
